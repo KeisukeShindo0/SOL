@@ -1,5 +1,5 @@
 ---
-title: SOL:Seof-organizing logic
+title: SOL:Self-organizing logic
 layout: default
 ---
 
