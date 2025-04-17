@@ -36,6 +36,8 @@ The Transformer and Attention used in the current LLM have unprecedented applica
 
 - Confirming the limits of accuracy of existing neural networks and the superiority of the SOL algorithm.
 
+	https://keisukeshindo0.github.io/SOL_feedback_evaluation/docs/SOLComparisonPaper.pdf
+
 ### Current shortcomings
 
 - Very difficult to speed up. The algorithm has many object references, which is similar to the difficulty of parallelizing a database. Since it has not been implemented for large matrix operations, it is not possible to use SIMD parallelization using GPUs, TPUs, etc.
