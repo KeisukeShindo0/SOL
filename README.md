@@ -36,7 +36,6 @@ The Transformer and Attention used in the current LLM have unprecedented applica
 
 - Confirming the limits of accuracy of existing neural networks and the superiority of the SOL algorithm.
 
-	https://keisukeshindo0.github.io/SOL_feedback_evaluation/docs/SOLComparisonPaper.pdf
 	https://keisukeshindo0.github.io/SOL_feedback_evaluation/
 
 ### Current shortcomings
